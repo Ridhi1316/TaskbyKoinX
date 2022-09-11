@@ -26,6 +26,4 @@ address is of the user, the “value” property gets added to the user’s bala
 balance. These transactions are the ones that were fetched in the previous tasks.
 Please host your code on GitHub.
 
-myFreeApi -> P21HC9GZD49ZS9178H2GTFW3PNC3KKQ6C3
 
-Address for testing -> 0xce94e5621a5f7068253c42558c147480f38b5e0d
