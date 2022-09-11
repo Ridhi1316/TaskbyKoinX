@@ -24,6 +24,3 @@ their current balance and current price of ether as output.
 address is of the user, the “value” property gets added to the user’s balance. If the
 “to” address is of the user, the “value” property gets deducted from the user’s
 balance. These transactions are the ones that were fetched in the previous tasks.
-Please host your code on GitHub.
-
-
